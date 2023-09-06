@@ -9,3 +9,4 @@ Ticket class symbolizes their socioeconomic level, and examining gender analyzes
 Finally, the port of embarkation represents the passenger’s origin.
 
 This was carried out as a part of the final paper presentation for a Graduate Level Course
+We employed Chi Square Test of Independence and Logistic Regression.
